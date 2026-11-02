@@ -2,7 +2,7 @@
 
 ### Java Developer | CSE Student | Problem Solver
 
-I'm a Masters Degree Computer Science and Engineering student at Astana IT University interested in backend development, software engineering, databases, and algorithms.
+I'm pursuing a Master's degree in Computer Science and Engineering at Astana IT University. Interested in backend development, software engineering, databases, and algorithms.
 
 Currently learning how to build reliable applications and understand what happens under the hood.
 
