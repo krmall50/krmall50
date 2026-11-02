@@ -28,37 +28,6 @@ Currently learning how to build reliable applications and understand what happen
 
 ---
 
-### 🧠 Currently Exploring
-
-- Java ecosystem and Spring Boot
-- Database design, SQL and JDBC
-- Data Structures & Algorithms
-- Multithreading and concurrency
-- Software architecture and clean code
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
----
-
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </p>
