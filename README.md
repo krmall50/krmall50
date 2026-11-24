@@ -33,5 +33,5 @@ Currently learning how to build reliable applications and understand what happen
 </p>
 
 <p align="center">
-  Thanks for stopping by! ⭐
+  Thanks for stopping by!
 </p>
