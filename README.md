@@ -26,13 +26,3 @@ Currently learning how to build reliable applications and understand what happen
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
----
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
-
-<p align="center">
-  Thanks for stopping by!
-</p>
